@@ -6,6 +6,8 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import java.time.LocalDateTime;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+
 @Entity
 public class OrderTable {
 
@@ -22,79 +24,33 @@ public class OrderTable {
     private String mobile;
     private String address;
 
-    private LocalDateTime orderDate = LocalDateTime.now();
+    @JsonFormat(pattern = "dd MMM yyyy, hh:mm a", timezone = "Asia/Kolkata")
+    private LocalDateTime orderDate;
 
-    public OrderTable() {}
+    public int getOrderId() { return orderId; }
+    public void setOrderId(int orderId) { this.orderId = orderId; }
 
-    public int getOrderId() {
-        return orderId;
-    }
+    public String getProductName() { return productName; }
+    public void setProductName(String productName) { this.productName = productName; }
 
-    public void setOrderId(int orderId) {
-        this.orderId = orderId;
-    }
+    public int getProductPrice() { return productPrice; }
+    public void setProductPrice(int productPrice) { this.productPrice = productPrice; }
 
-    public String getProductName() {
-        return productName;
-    }
+    public int getUnit() { return unit; }
+    public void setUnit(int unit) { this.unit = unit; }
 
-    public void setProductName(String productName) {
-        this.productName = productName;
-    }
+    public int getTotalPrice() { return totalPrice; }
+    public void setTotalPrice(int totalPrice) { this.totalPrice = totalPrice; }
 
-    public int getProductPrice() {
-        return productPrice;
-    }
+    public String getCustomerName() { return customerName; }
+    public void setCustomerName(String customerName) { this.customerName = customerName; }
 
-    public void setProductPrice(int productPrice) {
-        this.productPrice = productPrice;
-    }
+    public String getMobile() { return mobile; }
+    public void setMobile(String mobile) { this.mobile = mobile; }
 
-    public int getUnit() {
-        return unit;
-    }
+    public String getAddress() { return address; }
+    public void setAddress(String address) { this.address = address; }
 
-    public void setUnit(int unit) {
-        this.unit = unit;
-    }
-
-    public int getTotalPrice() {
-        return totalPrice;
-    }
-
-    public void setTotalPrice(int totalPrice) {
-        this.totalPrice = totalPrice;
-    }
-
-    public String getCustomerName() {
-        return customerName;
-    }
-
-    public void setCustomerName(String customerName) {
-        this.customerName = customerName;
-    }
-
-    public String getMobile() {
-        return mobile;
-    }
-
-    public void setMobile(String mobile) {
-        this.mobile = mobile;
-    }
-
-    public String getAddress() {
-        return address;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
-    }
-
-    public LocalDateTime getOrderDate() {
-        return orderDate;
-    }
-
-    public void setOrderDate(LocalDateTime orderDate) {
-        this.orderDate = orderDate;
-    }
+    public LocalDateTime getOrderDate() { return orderDate; }
+    public void setOrderDate(LocalDateTime orderDate) { this.orderDate = orderDate; }
 }
