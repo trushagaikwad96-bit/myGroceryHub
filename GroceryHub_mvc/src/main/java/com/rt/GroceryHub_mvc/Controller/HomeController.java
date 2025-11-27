@@ -20,5 +20,22 @@ public class HomeController {
 		return"loginpage";
 	}
 		
+	@GetMapping("/viewproducts")
+	public String viewproducts() {
+		return "redirect:/viewProduct";
+	}
 	
+	@GetMapping("/Home")
+	public String Home() {
+		return "HomePage";
+	}
+	@GetMapping("/contactpage")
+	public String contact() {
+		return "contact";
+	}
+	@GetMapping("/about")
+	public String about() {
+	    return "about";
+	}
+
 }

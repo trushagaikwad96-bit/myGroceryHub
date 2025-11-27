@@ -227,7 +227,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/4.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/4.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/5.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -261,7 +261,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/6.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/6.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/7.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -295,7 +295,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/3.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/resources/assets/img/shop/3.jpg" alt="Image" width="360" height="360">
                                         </a>
                                         <div class="ribbons">
                                           <span class="ribbon ribbon-discount">-9%</span>
@@ -330,7 +330,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/7.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/7.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/15.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -364,7 +364,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/5.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/5.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/10.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -398,8 +398,8 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/10.jpg" alt="Image" width="360" height="360">
-                                          <span class="bg-thumb" data-bg-img="assets/img/shop/13.webp"></span>
+                                          <img src="resources/assets/img/shop/10.jpg" alt="Image" width="360" height="360">
+                                          <span class="bg-thumb" data-bg-img="resources/assets/img/shop/13.webp"></span>
                                         </a>
                                         <div class="ribbons">
                                           <span class="ribbon ribbon-discount">-$8.00</span>
@@ -434,7 +434,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/8.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/8.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -504,7 +504,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/10.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/10.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/13.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -540,7 +540,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/8.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/8.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -576,7 +576,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/4.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/4.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/5.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -610,7 +610,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/15.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/15.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/3.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -644,7 +644,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/3.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/3.jpg" alt="Image" width="360" height="360">
                                         </a>
                                         <div class="ribbons">
                                           <span class="ribbon ribbon-discount">-7%</span>
@@ -699,7 +699,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/16.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/16.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/13.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -733,7 +733,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/14.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/14.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/15.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -767,7 +767,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/17.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/17.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/15.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -801,7 +801,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/9.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/9.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/10.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -835,7 +835,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/12.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/12.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/7.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -871,7 +871,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/7.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/7.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/15.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -905,7 +905,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/5.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/5.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/10.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -939,7 +939,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/10.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/10.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/13.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -975,7 +975,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/8.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/8.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1011,7 +1011,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/15.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/15.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/3.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1045,7 +1045,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/10.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/10.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/13.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1081,7 +1081,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/8.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/8.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1117,7 +1117,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/4.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/4.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/5.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1151,7 +1151,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/15.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/15.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/3.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1185,7 +1185,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/3.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/3.jpg" alt="Image" width="360" height="360">
                                         </a>
                                         <div class="ribbons">
                                           <span class="ribbon ribbon-discount">-7%</span>
@@ -1240,7 +1240,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/13.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/13.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/8.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1276,7 +1276,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/11.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/11.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/6.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1312,7 +1312,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/15.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/15.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/3.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1346,7 +1346,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/8.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/8.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1382,7 +1382,7 @@
                                     <div class="product-item product-animation">
                                       <div class="product-thumb">
                                         <a href="shop-single-product.html">
-                                          <img src="assets/img/shop/1.jpg" alt="Image" width="360" height="360">
+                                          <img src="resources/assets/img/shop/1.jpg" alt="Image" width="360" height="360">
                                           <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                                         </a>
                                         <div class="ribbons">
@@ -1459,7 +1459,7 @@
                     <div class="product-item">
                       <div class="product-thumb">
                         <a href="shop-single-product.html">
-                          <img src="assets/img/shop/1.jpg" alt="Image" width="360" height="360">
+                          <img src="resources/assets/img/shop/1.jpg" alt="Image" width="360" height="360">
                           <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                         </a>
                         <div class="ribbons">
@@ -1493,7 +1493,7 @@
                     <div class="product-item">
                       <div class="product-thumb">
                         <a href="shop-single-product.html">
-                          <img src="assets/img/shop/8.jpg" alt="Image" width="360" height="360">
+                          <img src="resources/assets/img/shop/8.jpg" alt="Image" width="360" height="360">
                           <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                         </a>
                         <div class="ribbons">
@@ -1529,7 +1529,7 @@
                     <div class="product-item">
                       <div class="product-thumb">
                         <a href="shop-single-product.html">
-                          <img src="assets/img/shop/7.jpg" alt="Image" width="360" height="360">
+                          <img src="resources/assets/img/shop/7.jpg" alt="Image" width="360" height="360">
                           <span class="bg-thumb" data-bg-img="assets/img/shop/15.webp"></span>
                         </a>
                         <div class="ribbons">
@@ -1561,7 +1561,7 @@
                     <div class="product-item">
                       <div class="product-thumb">
                         <a href="shop-single-product.html">
-                          <img src="assets/img/shop/9.jpg" alt="Image" width="360" height="360">
+                          <img src="resources/assets/img/shop/9.jpg" alt="Image" width="360" height="360">
                           <span class="bg-thumb" data-bg-img="assets/img/shop/10.webp"></span>
                         </a>
                         <div class="ribbons">
@@ -1595,7 +1595,7 @@
                     <div class="product-item">
                       <div class="product-thumb">
                         <a href="shop-single-product.html">
-                          <img src="assets/img/shop/11.jpg" alt="Image" width="360" height="360">
+                          <img src="resources/assets/img/shop/11.jpg" alt="Image" width="360" height="360">
                           <span class="bg-thumb" data-bg-img="assets/img/shop/6.webp"></span>
                         </a>
                         <div class="ribbons">
@@ -1629,7 +1629,7 @@
                     <div class="product-item">
                       <div class="product-thumb">
                         <a href="shop-single-product.html">
-                          <img src="assets/img/shop/4.jpg" alt="Image" width="360" height="360">
+                          <img src="resources/assets/img/shop/4.jpg" alt="Image" width="360" height="360">
                           <span class="bg-thumb" data-bg-img="assets/img/shop/5.webp"></span>
                         </a>
                         <div class="ribbons">
@@ -1663,7 +1663,7 @@
                     <div class="product-item">
                       <div class="product-thumb">
                         <a href="shop-single-product.html">
-                          <img src="assets/img/shop/4.jpg" alt="Image" width="360" height="360">
+                          <img src="resources/assets/img/shop/4.jpg" alt="Image" width="360" height="360">
                           <span class="bg-thumb" data-bg-img="assets/img/shop/3.webp"></span>
                         </a>
                         <div class="ribbons">
@@ -1695,7 +1695,7 @@
                     <div class="product-item">
                       <div class="product-thumb">
                         <a href="shop-single-product.html">
-                          <img src="assets/img/shop/12.jpg" alt="Image" width="360" height="360">
+                          <img src="resources/assets/img/shop/12.jpg" alt="Image" width="360" height="360">
                           <span class="bg-thumb" data-bg-img="assets/img/shop/9.webp"></span>
                         </a>
                         <div class="ribbons">
@@ -1760,7 +1760,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/3.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/3.jpg" alt="Image" width="360" height="360">
                               </a>
                             </div>
                             <div class="product-info">
@@ -1778,7 +1778,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/1.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/1.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                               </a>
                             </div>
@@ -1797,7 +1797,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/9.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/9.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/10.webp"></span>
                               </a>
                             </div>
@@ -1815,7 +1815,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/15.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/15.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/9.webp"></span>
                               </a>
                             </div>
@@ -1833,7 +1833,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/5.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/5.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/10.webp"></span>
                               </a>
                             </div>
@@ -1852,7 +1852,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/10.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/10.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/5.webp"></span>
                               </a>
                             </div>
@@ -1871,7 +1871,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/9.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/9.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/10.webp"></span>
                               </a>
                             </div>
@@ -1889,7 +1889,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/15.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/15.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/9.webp"></span>
                               </a>
                             </div>
@@ -1907,7 +1907,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/3.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/3.jpg" alt="Image" width="360" height="360">
                               </a>
                             </div>
                             <div class="product-info">
@@ -1925,7 +1925,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/1.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/1.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                               </a>
                             </div>
@@ -1944,7 +1944,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/3.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/3.jpg" alt="Image" width="360" height="360">
                               </a>
                             </div>
                             <div class="product-info">
@@ -1962,7 +1962,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/1.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/1.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                               </a>
                             </div>
@@ -1981,7 +1981,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/9.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/9.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/10.webp"></span>
                               </a>
                             </div>
@@ -1999,7 +1999,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/15.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/15.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/9.webp"></span>
                               </a>
                             </div>
@@ -2017,7 +2017,7 @@
                           <div class="product-list-item">
                             <div class="product-thumb">
                               <a href="shop-single-product.html">
-                                <img src="assets/img/shop/10.jpg" alt="Image" width="360" height="360">
+                                <img src="resources/assets/img/shop/10.jpg" alt="Image" width="360" height="360">
                                 <span class="bg-thumb" data-bg-img="assets/img/shop/5.webp"></span>
                               </a>
                             </div>
@@ -2058,7 +2058,7 @@
                         <div class="product-item product-item-style">
                           <div class="product-thumb">
                             <a href="shop-single-product.html">
-                              <img src="assets/img/shop/1.jpg" alt="Image" width="360" height="360">
+                              <img src="resources/assets/img/shop/1.jpg" alt="Image" width="360" height="360">
                               <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                             </a>
                             <div class="ribbons">
@@ -2103,7 +2103,7 @@
                         <div class="product-item product-item-style">
                           <div class="product-thumb">
                             <a href="shop-single-product.html">
-                              <img src="assets/img/shop/8.jpg" alt="Image" width="360" height="360">
+                              <img src="resources/assets/img/shop/8.jpg" alt="Image" width="360" height="360">
                               <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                             </a>
                             <div class="ribbons">
@@ -2148,7 +2148,7 @@
                         <div class="product-item product-item-style">
                           <div class="product-thumb">
                             <a href="shop-single-product.html">
-                              <img src="assets/img/shop/11.jpg" alt="Image" width="360" height="360">
+                              <img src="resources/assets/img/shop/11.jpg" alt="Image" width="360" height="360">
                               <span class="bg-thumb" data-bg-img="assets/img/shop/6.webp"></span>
                             </a>
                             <div class="ribbons">
@@ -2193,7 +2193,7 @@
                         <div class="product-item product-item-style">
                           <div class="product-thumb">
                             <a href="shop-single-product.html">
-                              <img src="assets/img/shop/9.jpg" alt="Image" width="360" height="360">
+                              <img src="resources/assets/img/shop/9.jpg" alt="Image" width="360" height="360">
                               <span class="bg-thumb" data-bg-img="assets/img/shop/14.webp"></span>
                             </a>
                             <div class="ribbons">
@@ -2238,7 +2238,7 @@
                         <div class="product-item product-item-style">
                           <div class="product-thumb">
                             <a href="shop-single-product.html">
-                              <img src="assets/img/shop/8.jpg" alt="Image" width="360" height="360">
+                              <img src="resources/assets/img/shop/8.jpg" alt="Image" width="360" height="360">
                               <span class="bg-thumb" data-bg-img="assets/img/shop/2.webp"></span>
                             </a>
                             <div class="ribbons">
@@ -2291,14 +2291,14 @@
               <div class="col-xl-12 col-lg-6 col-md-6 col-sm-6">
                 <div class="category-item mb-23">
                   <div class="thumb effect-animate-flash">
-                    <a href="shop.html"><img src="assets/img/category/15.jpg" alt="Image" width="262" height="290"></a>
+                    <a href="shop.html"><img src="resources/assets/img/category/15.jpg" alt="Image" width="262" height="290"></a>
                   </div>
                 </div>
               </div>
               <div class="col-xl-12 col-lg-6 col-md-6 col-sm-6">
                 <div class="category-item">
                   <div class="thumb effect-animate-flash">
-                    <a href="shop.html"><img src="assets/img/category/16.jpg" alt="Image" width="262" height="290"></a>
+                    <a href="shop.html"><img src="resources/assets/img/category/16.jpg" alt="Image" width="262" height="290"></a>
                   </div>
                 </div>
               </div>
@@ -2340,7 +2340,7 @@
                     <div class="category-item">
                       <div class="category-thumb">
                         <a href="shop.html">
-                          <img src="assets/img/category/6.png" alt="Image" width="101" height="101">
+                          <img src="resources/assets/img/category/6.png" alt="Image" width="101" height="101">
                         </a>
                       </div>
                     </div>
@@ -2351,7 +2351,7 @@
                     <div class="category-item">
                       <div class="category-thumb">
                         <a href="shop.html">
-                          <img src="assets/img/category/7.png" alt="Image" width="101" height="101">
+                          <img src="resources/assets/img/category/7.png" alt="Image" width="101" height="101">
                         </a>
                       </div>
                     </div>
@@ -2362,7 +2362,7 @@
                     <div class="category-item">
                       <div class="category-thumb">
                         <a href="shop.html">
-                          <img src="assets/img/category/8.png" alt="Image" width="101" height="101">
+                          <img src="resources/assets/img/category/8.png" alt="Image" width="101" height="101">
                         </a>
                       </div>
                     </div>
@@ -2373,7 +2373,7 @@
                     <div class="category-item">
                       <div class="category-thumb">
                         <a href="shop.html">
-                          <img src="assets/img/category/9.png" alt="Image" width="101" height="101">
+                          <img src="resources/assets/img/category/9.png" alt="Image" width="101" height="101">
                         </a>
                       </div>
                     </div>
@@ -2384,7 +2384,7 @@
                     <div class="category-item">
                       <div class="category-thumb">
                         <a href="shop.html">
-                          <img src="assets/img/category/10.png" alt="Image" width="101" height="101">
+                          <img src="resources/assets/img/category/10.png" alt="Image" width="101" height="101">
                         </a>
                       </div>
                     </div>
@@ -2395,7 +2395,7 @@
                     <div class="category-item">
                       <div class="category-thumb">
                         <a href="shop.html">
-                          <img src="assets/img/category/11.png" alt="Image" width="101" height="101">
+                          <img src="resources/assets/img/category/11.png" alt="Image" width="101" height="101">
                         </a>
                       </div>
                     </div>
@@ -2406,7 +2406,7 @@
                     <div class="category-item">
                       <div class="category-thumb">
                         <a href="shop.html">
-                          <img src="assets/img/category/12.png" alt="Image" width="101" height="101">
+                          <img src="resources/assets/img/category/12.png" alt="Image" width="101" height="101">
                         </a>
                       </div>
                     </div>
@@ -2431,14 +2431,14 @@
           <div class="col-md-6 mb-sm-30">
             <div class="category-item">
               <div class="thumb effect-animate-flash">
-                <a href="shop.html"><img src="assets/img/category/13.jpg" alt="Image" width="571" height="210"></a>
+                <a href="shop.html"><img src="resources/assets/img/category/13.jpg" alt="Image" width="571" height="210"></a>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="category-item">
               <div class="thumb effect-animate-flash">
-                <a href="shop.html"><img src="assets/img/category/14.jpg" alt="Image" width="571" height="210"></a>
+                <a href="shop.html"><img src="resources/assets/img/category/14.jpg" alt="Image" width="571" height="210"></a>
               </div>
             </div>
           </div>
@@ -2499,12 +2499,12 @@
                           </div>
                           <div class="swiper-slide">
                             <div class="thumb-item">
-                              <img src="assets/img/shop/details/5.jpg" alt="Image" width="800" height="800">
+                              <img src="resources/assets/img/shop/details/5.jpg" alt="Image" width="800" height="800">
                             </div>
                           </div>
                           <div class="swiper-slide">
                             <div class="thumb-item">
-                              <img src="assets/img/shop/details/7.jpg" alt="Image" width="800" height="800">
+                              <img src="resources/assets/img/shop/details/7.jpg" alt="Image" width="800" height="800">
                             </div>
                           </div>
                         </div>
@@ -2587,7 +2587,7 @@
             <div class="modal-action-messages">Added to cart successfully!</div>
             <div class="modal-action-product">
               <div class="thumb">
-                <img src="assets/img/shop/1.jpg" alt="Organic Food Juice" width="360" height="360">
+                <img src="resources/assets/img/shop/1.jpg" alt="Organic Food Juice" width="360" height="360">
               </div>
               <h4 class="product-name"><a href="shop-single-product.html">Organic Food Juice</a></h4>
             </div>
@@ -2610,7 +2610,7 @@
             <div class="modal-action-messages">Added to compare successfully!</div>
             <div class="modal-action-product">
               <div class="thumb">
-                <img src="assets/img/shop/1.jpg" alt="CRAS NEQUE METUS" width="300" height="300">
+                <img src="resources/assets/img/shop/1.jpg" alt="CRAS NEQUE METUS" width="300" height="300">
               </div>
               <h4 class="product-name"><a href="shop-single-product.html">CRAS NEQUE METUS</a></h4>
             </div>
@@ -2633,7 +2633,7 @@
             <div class="modal-action-messages">Added to wishlist successfully!</div>
             <div class="modal-action-product">
               <div class="thumb">
-                <img src="assets/img/shop/1.jpg" alt="Organic Food Juice" width="360" height="360">
+                <img src="resources/assets/img/shop/1.jpg" alt="Organic Food Juice" width="360" height="360">
               </div>
               <h4 class="product-name"><a href="shop-single-product.html">Organic Food Juice</a></h4>
             </div>
@@ -2686,10 +2686,10 @@
           </ul>
         </div>
         <div class="header-lang-dropdown">
-          <button type="button" class="btn-lang dropdown-toggle" id="dropdownLang2" data-bs-toggle="dropdown" aria-expanded="false"><img src="assets/img/photos/4.jpg" alt="Image" width="16" height="11"> <span>English</span></button>
+          <button type="button" class="btn-lang dropdown-toggle" id="dropdownLang2" data-bs-toggle="dropdown" aria-expanded="false"><img src="resources/assets/img/photos/4.jpg" alt="Image" width="16" height="11"> <span>English</span></button>
           <ul class="dropdown-menu" aria-labelledby="dropdownLang2">
-            <li class="dropdown-item active"><img src="assets/img/photos/4.jpg" alt="Image" width="16" height="11"> <span>English</span></li>
-            <li class="dropdown-item"><img src="assets/img/photos/2.jpg" alt="Image" width="16" height="11"> <span>Français</span></li>
+            <li class="dropdown-item active"><img src="resources/assets/img/photos/4.jpg" alt="Image" width="16" height="11"> <span>English</span></li>
+            <li class="dropdown-item"><img src="resources/assets/img/photos/2.jpg" alt="Image" width="16" height="11"> <span>Français</span></li>
           </ul>
         </div>
       </div>
@@ -2786,7 +2786,7 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="shop.html"><img src="assets/img/photos/vc-bammer.jpg" alt="Image" width="350" height="164"></a>
+                  <a href="shop.html"><img src="resources/assets/img/photos/vc-bammer.jpg" alt="Image" width="350" height="164"></a>
                 </li>
               </ul>
             </li>
